@@ -22,7 +22,7 @@ git clone or ダウンロードしてきたファイルの中から "python-inst
 ```python:server.py
 python3 server.py
 ```
-![server.py](./pic/server.png) 
+![server.py](./pic/server-python.png) 
 
 ポートやipアドレスは設定したものに修正しましょう
 
@@ -31,7 +31,7 @@ python3 server.py
 ```python:client.py
 python3 clien.py
 ```
-![clien.py](./pic/client.png) 
+![clien.py](./pic/client-python.png) 
 
 ポートやipアドレスは設定したものに修正しましょう
 
