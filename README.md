@@ -32,3 +32,5 @@ python3 server.py
 python3 clien.py
 ```
 ![clien.py](./pic/client.png) 
+
+ポートやipアドレスは設定したものに修正しましょう
