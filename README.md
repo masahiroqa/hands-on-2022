@@ -43,5 +43,5 @@ brew cask install wireshark
 ```
 
 - windows編  
-下記の参考ページから導入をお願いします。 
+下記の参考ページから導入をお願いします。  
 [Wiresharkのインストール手順（Windows編）](https://qiita.com/yasushi-jp/items/7cacbe6089c760ad4202)
