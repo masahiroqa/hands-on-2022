@@ -34,3 +34,14 @@ python3 clien.py
 ![clien.py](./pic/client.png) 
 
 ポートやipアドレスは設定したものに修正しましょう
+
+## wireshark 導入方法
+- mac編
+以下のコマンドを実行
+```
+brew cask install wireshark
+```
+
+- windows編  
+下記の参考ページから導入をお願いします。 
+[Wiresharkのインストール手順（Windows編）](https://qiita.com/yasushi-jp/items/7cacbe6089c760ad4202)
